@@ -1,0 +1,202 @@
+* {
+  margin: 0px;
+  padding: 0px;
+
+  box-sizing: border-box;
+}
+.he_1 {
+  display: flex;
+  align-items: center;
+  font-size: medium;
+  justify-content: space-between;
+  border: 1px solid white;
+  width: 60%;
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid rgb(247, 243, 243);
+  position: static;
+  box-shadow: 0 0 10px rgba(253, 253, 253, 0.991);
+}
+.outhe {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid rgb(252, 248, 248);
+  width: 20%;
+}
+.start {
+  display: flex;
+  justify-content: space-between;
+
+  align-items: center;
+  padding: 70px;
+  background-color: rgb(255, 255, 255);
+  font-family: "Figtree", "Figtree-fallback", "Figtree-fallback-android",
+    "Noto Sans", "NotoSans-fallback", "NotoSans-fallback-android", sans-serif;
+}
+.img_s24 {
+  padding: 10px;
+  align-items: center;
+}
+.img_s242 {
+  padding: 10px;
+}
+.second {
+  padding: 15%;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgba(255, 204, 0, 0.674);
+  font-family: "Figtree", "Figtree-fallback", "Figtree-fallback-android",
+    "Noto Sans", "NotoSans-fallback", "NotoSans-fallback-android", sans-serif;
+  margin: 0px;
+  margin-bottom: 50px;
+  padding: 80px;
+  border: 1px;
+  box-shadow: 10px black;
+  border-radius: 200px;
+}
+.arrow1 {
+  padding: 50px;
+}
+.emi {
+  display: flex;
+  align-items: center;
+}
+.third {
+  display: flex;
+  padding: 10%;
+  border: 1px solid white;
+  font-family: "Figtree", "Figtree-fallback", "Figtree-fallback-android",
+    "Noto Sans", "NotoSans-fallback", "NotoSans-fallback-android", sans-serif;
+  justify-content: space-between;
+  margin-bottom: 50px;
+  background-color: wheat;
+  border-radius: 12%;
+}
+.homeappliances_img {
+  border: 1px solid white;
+  width: 10000000px;
+}
+.fourth {
+  display: flex;
+  justify-content: space-between;
+  padding: 10%;
+  border: 1px solid white;
+  background-color: rgb(231, 231, 234);
+  margin-bottom: 50px;
+  font-family: "Figtree", "Figtree-fallback", "Figtree-fallback-android",
+    "Noto Sans", "NotoSans-fallback", "NotoSans-fallback-android", sans-serif;
+}
+.fifth {
+  display: flex;
+  border: 1px solid white;
+  padding: 10%;
+  font-family: "Figtree", "Figtree-fallback", "Figtree-fallback-android",
+    "Noto Sans", "NotoSans-fallback", "NotoSans-fallback-android", sans-serif;
+  background-color: rgba(32, 79, 218, 0.37);
+  border-radius: 12%;
+  margin-bottom: 50px;
+}
+.recom_img {
+  display: flex;
+  justify-content: space-between;
+  padding: 3%;
+  border: 1px solid white;
+}
+.recom {
+  justify-content: center;
+  align-items: center;
+  display: grid;
+  font-family: "Figtree", "Figtree-fallback", "Figtree-fallback-android",
+    "Noto Sans", "NotoSans-fallback", "NotoSans-fallback-android", sans-serif;
+}
+.seventh {
+  display: flex;
+  justify-content: space-between;
+  padding: 3%;
+}
+.product3 {
+  padding: 2%;
+}
+.product2 {
+  padding: 6px;
+}
+.product6 {
+  padding: 0.5%;
+}
+.eight {
+  display: flex;
+  font-family: "Figtree", "Figtree-fallback", "Figtree-fallback-android",
+    "Noto Sans", "NotoSans-fallback", "NotoSans-fallback-android", sans-serif;
+  border: 1px solid white;
+}
+.ninth {
+  display: flex;
+  justify-content: center;
+  font-family: "Figtree", "Figtree-fallback", "Figtree-fallback-android",
+    "Noto Sans", "NotoSans-fallback", "NotoSans-fallback-android", sans-serif;
+  background-color: #fafafa;
+}
+.tenth {
+  font-family: "Figtree", "Figtree-fallback", "Figtree-fallback-android",
+    "Noto Sans", "NotoSans-fallback", "NotoSans-fallback-android", sans-serif;
+  padding: 3%;
+  justify-content: center;
+  align-items: center;
+}
+.select{
+   width: 200px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.select:hover{
+    background-color: #d5d4d45a;
+}
+.last {
+  font-family: "Figtree", "Figtree-fallback", "Figtree-fallback-android",
+    "Noto Sans", "NotoSans-fallback", "NotoSans-fallback-android", sans-serif;
+  padding: 2%;
+}
+.last1 {
+  font-family: "Figtree", "Figtree-fallback", "Figtree-fallback-android",
+    "Noto Sans", "NotoSans-fallback", "NotoSans-fallback-android", sans-serif;
+  padding: 2%;
+}
+.last2 {
+  font-family: "Figtree", "Figtree-fallback", "Figtree-fallback-android",
+    "Noto Sans", "NotoSans-fallback", "NotoSans-fallback-android", sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.last2_1{
+    display: flex;
+    justify-content: space-evenly;
+  word-spacing: 30px;
+}
+.last2_1>h3{
+    margin-right: 10px;
+}
+.last2_2{
+    
+    margin-left: 0px;
+    
+}
+.ai {
+  position: fixed;
+  top: 250px;
+  right: 20px;
+}
+.ai:hover {
+  display: flex;
+
+  border: 2px solid;
+  border-radius: 5px;
+  position: fixed;
+  right: 30px;
+  width: 200px;
+  height: 70px;
+}
