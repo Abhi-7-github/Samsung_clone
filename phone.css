@@ -1,0 +1,11 @@
+.ai2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Figtree", "Figtree-fallback", "Figtree-fallback-android",
+    "Noto Sans", "NotoSans-fallback", "NotoSans-fallback-android", sans-serif;
+}
+.search_two{
+    display: flex;
+    justify-content: center;
+}

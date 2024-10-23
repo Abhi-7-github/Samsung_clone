@@ -48,7 +48,7 @@ nav {
   padding: 15%;
   display: flex;
   justify-content: space-between;
-  background-color: rgba(255, 204, 0, 0.674);
+  background-color: rgba(248, 179, 16, 0.674);
   font-family: "Figtree", "Figtree-fallback", "Figtree-fallback-android",
     "Noto Sans", "NotoSans-fallback", "NotoSans-fallback-android", sans-serif;
   margin: 0px;
@@ -56,7 +56,7 @@ nav {
   padding: 80px;
   border: 1px;
   box-shadow: 10px black;
-  border-radius: 200px;
+  border-radius: 20px;
 }
 .arrow1 {
   padding: 50px;
@@ -74,7 +74,7 @@ nav {
   justify-content: space-between;
   margin-bottom: 50px;
   background-color: wheat;
-  border-radius: 12%;
+  border-radius: 10px;
 }
 .homeappliances_img {
   border: 1px solid white;
@@ -89,6 +89,7 @@ nav {
   margin-bottom: 50px;
   font-family: "Figtree", "Figtree-fallback", "Figtree-fallback-android",
     "Noto Sans", "NotoSans-fallback", "NotoSans-fallback-android", sans-serif;
+  border-radius: 20px;
 }
 .fifth {
   display: flex;
@@ -97,7 +98,7 @@ nav {
   font-family: "Figtree", "Figtree-fallback", "Figtree-fallback-android",
     "Noto Sans", "NotoSans-fallback", "NotoSans-fallback-android", sans-serif;
   background-color: rgba(32, 79, 218, 0.37);
-  border-radius: 12%;
+  border-radius: 20px;
   margin-bottom: 50px;
 }
 .recom_img {
@@ -147,13 +148,13 @@ nav {
   justify-content: center;
   align-items: center;
 }
-.select{
-   width: 200px;
-    border: 1px solid;
-    border-radius: 5px;
+.select {
+  width: 200px;
+  border: 1px solid;
+  border-radius: 5px;
 }
-.select:hover{
-    background-color: #d5d4d45a;
+.select:hover {
+  background-color: #d5d4d45a;
 }
 .last {
   font-family: "Figtree", "Figtree-fallback", "Figtree-fallback-android",
@@ -168,22 +169,20 @@ nav {
 .last2 {
   font-family: "Figtree", "Figtree-fallback", "Figtree-fallback-android",
     "Noto Sans", "NotoSans-fallback", "NotoSans-fallback-android", sans-serif;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
-.last2_1{
-    display: flex;
-    justify-content: space-evenly;
+.last2_1 {
+  display: flex;
+  justify-content: space-evenly;
   word-spacing: 30px;
 }
-.last2_1>h3{
-    margin-right: 10px;
+.last2_1 > h3 {
+  margin-right: 10px;
 }
-.last2_2{
-    
-    margin-left: 0px;
-    
+.last2_2 {
+  margin-left: 0px;
 }
 .ai {
   position: fixed;
@@ -193,10 +192,74 @@ nav {
 .ai:hover {
   display: flex;
 
-  border: 2px solid;
   border-radius: 5px;
   position: fixed;
   right: 30px;
-  width: 200px;
-  height: 70px;
+}
+.arrow:hover {
+  display: flex;
+  border: 2px solid rgb(251, 251, 251);
+  border-radius: 500%;
+}
+.product1 {
+  border: 11px;
+  border-radius: 10px;
+  background-color: #6d6c6c;
+}
+.proudct1:hover {
+  transform: scale(1.2);
+}
+.product2 {
+  border: 1px;
+  border-radius: 10px;
+}
+.product2:hover {
+  transform: scale(1.2);
+}
+.product3 {
+  border: 1px;
+  border-radius: 10px;
+}
+.product3:hover {
+  transform: scale(1.2);
+}
+.product4 {
+  border: 1px;
+  border-radius: 10px;
+}
+.product4:hover {
+  transform: scale(1.2);
+}
+.product5 {
+  border: 1px;
+  border-radius: 10px;
+}
+.product5:hover {
+  transform: scale(1.2);
+}
+.product6 {
+  border: 1px;
+  border-radius: 10px;
+}
+.product6:hover {
+  transform: scale(1.2);
+}
+
+.product7,
+.product8 {
+  border: 1px;
+  border-radius: 10px;
+}
+.product7:hover,
+.product8:hover {
+  transform: scale(1.2);
+}
+.start:hover{
+  transform: scale(0.9);
+}
+.p1{
+  color: blue;
+}
+.p1:hover{
+  transform: scale(1);
 }
